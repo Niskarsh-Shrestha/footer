@@ -1,0 +1,92 @@
+.p1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.p2{
+    text-align: center;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hr{
+    color: grey;
+}
+
+.icon{
+    text-align: center;
+    font-size: 40px;
+}
+
+.text1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.text1 :hover{
+    color: black;
+
+}
+
+.t2{
+    font-size: 13px;
+    padding: 5px 0 10px 10px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.p3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.genre{
+    padding-left: 45px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.genre :hover{
+    color: red;
+}
+
+.ulist{
+    list-style-type: none
+    
+}
+
+.ulist :hover{
+    color: black;
+}
+
+.list{
+    padding: 5px;
+    font-size: 13px;
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box1{
+    padding: 0 0 0 40px;
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
